@@ -137,8 +137,7 @@ finflow-analytics/
 ### Step 1 — Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/finflow-analytics.git
-cd finflow-analytics
+git clone FinFlow Analytics Real-Time SaaS Fintech Funnel Intelligence Platform
 pip install -r requirements.txt
 ```
 
